@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Siyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiyungCho)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiyungCho&show_icons=true&theme=radical)
